@@ -1,0 +1,13 @@
+#main {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    height: 50px;
+    margin: 25px auto;
+}
+
+.item{
+    flex-grow: 1;
+    text-align: center;
+    font-size: 25px;
+}
